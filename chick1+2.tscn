@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3 uid="uid://c38hnvbjqlyh6"]
+
+[ext_resource type="Texture2D" uid="uid://b21t402vkko3t" path="res://cute-cartoon-chick-free-png.png" id="1_fs682"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="chick 1" type="Sprite2D" parent="."]
+position = Vector2(849, 842)
+scale = Vector2(0.178161, 0.173958)
+texture = ExtResource("1_fs682")
+
+[node name="chick 2" type="Sprite2D" parent="."]
+position = Vector2(1383, 842)
+scale = Vector2(0.178161, 0.173958)
+texture = ExtResource("1_fs682")

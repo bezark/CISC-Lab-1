@@ -1,0 +1,42 @@
+[gd_scene load_steps=6 format=3 uid="uid://ki1fukhv8kar"]
+
+[ext_resource type="Texture2D" uid="uid://bq2apsivhjqk2" path="res://j867_5bkq_180808.jpg" id="1_688lg"]
+[ext_resource type="Texture2D" uid="uid://0h8k1dnhbqro" path="res://image_processing20201118-26676-165mio6.png" id="2_68u7y"]
+[ext_resource type="PackedScene" uid="uid://x07ffpfqkmgp" path="res://chicken.tscn" id="3_43r0v"]
+[ext_resource type="PackedScene" uid="uid://c38hnvbjqlyh6" path="res://chick1+2.tscn" id="4_xtjhm"]
+[ext_resource type="PackedScene" uid="uid://1bmao4585y08" path="res://cow.tscn" id="5_6b1m7"]
+
+[node name="main scene" type="Node2D"]
+
+[node name="countyside background" type="TextureRect" parent="."]
+offset_left = -1616.0
+offset_top = -373.0
+offset_right = 5747.0
+offset_bottom = 2615.0
+texture = ExtResource("1_688lg")
+
+[node name="barn 1" type="Sprite2D" parent="countyside background"]
+position = Vector2(2105, 1141)
+scale = Vector2(1.28281, 1.64694)
+texture = ExtResource("2_68u7y")
+
+[node name="barn 2" type="Sprite2D" parent="countyside background"]
+position = Vector2(4214, 1142)
+scale = Vector2(1.28281, 1.64694)
+texture = ExtResource("2_68u7y")
+
+[node name="animals" type="Node2D" parent="."]
+position = Vector2(-1768.77, 367.955)
+scale = Vector2(0.108574, 0.0749499)
+
+[node name="chicken" parent="animals" instance=ExtResource("3_43r0v")]
+position = Vector2(18317.2, 10927.9)
+scale = Vector2(2, 3)
+
+[node name="chick 1+2" parent="animals" instance=ExtResource("4_xtjhm")]
+position = Vector2(19496.1, 11608.4)
+scale = Vector2(2, 2)
+
+[node name="cow" parent="animals" instance=ExtResource("5_6b1m7")]
+position = Vector2(21172.4, 5417.55)
+scale = Vector2(5, 7)

@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://1bmao4585y08"]
+
+[ext_resource type="Texture2D" uid="uid://gogtvw5xgd0h" path="res://cartoon-of-cow-illustration-cow-in-format-image-illustration-of-cow-free-png.webp" id="1_byw0p"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="cow" type="Sprite2D" parent="."]
+position = Vector2(1248, 855)
+texture = ExtResource("1_byw0p")

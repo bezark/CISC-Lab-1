@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://x07ffpfqkmgp"]
+
+[ext_resource type="Texture2D" uid="uid://iq5fksmk6856" path="res://chicken-cartoon-character-png.png" id="1_mfe5i"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="chicken" type="Sprite2D" parent="."]
+position = Vector2(955.031, 549)
+scale = Vector2(0.587947, 0.491667)
+texture = ExtResource("1_mfe5i")
