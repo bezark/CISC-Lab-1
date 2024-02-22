@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b21t402vkko3t"
-path="res://.godot/imported/cute-cartoon-chick-free-png.png-7c794f426c33f03abff239ddbe976746.ctex"
+path="res://.godot/imported/cute-cartoon-chick-free-png.png-b30753e8ac2ede586d7e0f734623f96d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cute-cartoon-chick-free-png.png"
-dest_files=["res://.godot/imported/cute-cartoon-chick-free-png.png-7c794f426c33f03abff239ddbe976746.ctex"]
+source_file="res://photos/cute-cartoon-chick-free-png.png"
+dest_files=["res://.godot/imported/cute-cartoon-chick-free-png.png-b30753e8ac2ede586d7e0f734623f96d.ctex"]
 
 [params]
 
