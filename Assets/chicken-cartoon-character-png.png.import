@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://gogtvw5xgd0h"
-path="res://.godot/imported/cartoon-of-cow-illustration-cow-in-format-image-illustration-of-cow-free-png.webp-27887cd10e3232ec4c38563212c4548c.ctex"
+uid="uid://iq5fksmk6856"
+path="res://.godot/imported/chicken-cartoon-character-png.png-24dd6b5437de42085c227180ca0ae833.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://photos/cartoon-of-cow-illustration-cow-in-format-image-illustration-of-cow-free-png.webp"
-dest_files=["res://.godot/imported/cartoon-of-cow-illustration-cow-in-format-image-illustration-of-cow-free-png.webp-27887cd10e3232ec4c38563212c4548c.ctex"]
+source_file="res://Assets/chicken-cartoon-character-png.png"
+dest_files=["res://.godot/imported/chicken-cartoon-character-png.png-24dd6b5437de42085c227180ca0ae833.ctex"]
 
 [params]
 

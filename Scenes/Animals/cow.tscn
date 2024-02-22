@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://1bmao4585y08"]
 
-[ext_resource type="Texture2D" uid="uid://gogtvw5xgd0h" path="res://cartoon-of-cow-illustration-cow-in-format-image-illustration-of-cow-free-png.webp" id="1_byw0p"]
+[ext_resource type="Texture2D" uid="uid://gogtvw5xgd0h" path="res://Assets/cartoon-of-cow-illustration-cow-in-format-image-illustration-of-cow-free-png.webp" id="1_byw0p"]
 
 [node name="Node2D" type="Node2D"]
 

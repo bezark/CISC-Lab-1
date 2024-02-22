@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://iq5fksmk6856"
-path="res://.godot/imported/chicken-cartoon-character-png.png-afb7f445ed0d17f70e84adde99f5176d.ctex"
+uid="uid://0h8k1dnhbqro"
+path="res://.godot/imported/image_processing20201118-26676-165mio6.png-e8dbf08e8b490b6171cecb9f7b190206.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://photos/chicken-cartoon-character-png.png"
-dest_files=["res://.godot/imported/chicken-cartoon-character-png.png-afb7f445ed0d17f70e84adde99f5176d.ctex"]
+source_file="res://Assets/image_processing20201118-26676-165mio6.png"
+dest_files=["res://.godot/imported/image_processing20201118-26676-165mio6.png-e8dbf08e8b490b6171cecb9f7b190206.ctex"]
 
 [params]
 

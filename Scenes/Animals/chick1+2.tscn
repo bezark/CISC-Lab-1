@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://c38hnvbjqlyh6"]
 
-[ext_resource type="Texture2D" uid="uid://b21t402vkko3t" path="res://cute-cartoon-chick-free-png.png" id="1_fs682"]
+[ext_resource type="Texture2D" uid="uid://b21t402vkko3t" path="res://Assets/cute-cartoon-chick-free-png.png" id="1_fs682"]
 
 [node name="Node2D" type="Node2D"]
 
